@@ -156,8 +156,11 @@ p a {
 	background-color: #430e0e;
 	color: #fff;
 	display: block;
-	border: #000 groove 3px;
+	border: #169f48 groove 3px;
 	border-radius: 15px;
+	width: 20%;
+	text-align: center;
+	font-size: 2em;
 }
 
 footer {
