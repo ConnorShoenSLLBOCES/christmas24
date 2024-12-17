@@ -152,6 +152,14 @@ p a {
 	margin: 2%;
 }
 
+.button {
+	background-color: #430e0e;
+	color: #fff;
+	display: block;
+	border: #000 groove 3px;
+	border-radius: 15px;
+}
+
 footer {
 	background-color: #81B3D2;
 	color: #000;
