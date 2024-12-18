@@ -61,6 +61,8 @@ img {
 h1 {
 	text-align: center;
 	color: #1B3A6B;
+	padding: 3% 0;
+	background-color: #db0;
 }
 
 h2 {
